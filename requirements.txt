@@ -1,0 +1,7 @@
+torch
+wave
+numpy
+sounddevice
+gradio
+transformers
+faster_whisper
